@@ -1,0 +1,23 @@
+{
+  "name": "scotch-cloudinary",
+  "version": "1.0.0",
+  "description": "Demo on how to use Cloudinary",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Cloudinary"
+  ],
+  "author": "Kelvin ",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cloudinary": "^1.9.0",
+    "connect-multiparty": "*",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "mongoose": "*"
+  }
+}
